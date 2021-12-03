@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 12/17/2011 -->
+<!-- -->
+
+<category>
+  <pattern>வணக்கம்</pattern>
+  <template>
+     வணக்கம் உங்களை சந்தித்ததில் பெருமகிழ்ச்சி
+  </template>
+</category>
+
+<category>
+      <pattern>என் பெயர் *</pattern>
+      <template>
+         <set name="name"><star/></set> நல்ல பெயர்.
+      </template>
+</category>
+
+<category>
+  <pattern>யார் நீ</pattern>
+  <template>
+     நான் சிட்டி
+  </template>
+</category>
+
+<category>
+  <pattern>நீங்கள் என் நண்பராக இருக்க முடியுமா?</pattern>
+  <template>
+     நிச்சயம்
+  </template>
+</category>
+
+<category>
+  <pattern>நன்றி</pattern>
+  <template>
+     உதவி செய்வதில் மகிழ்ச்சி
+  </template>
+</category>
+
+<category>
+  <pattern>வருகிறேன்</pattern>
+  <template>
+     சரி
+  </template>
+</category>
+
+<category>
+  <pattern>* வருகிறேன்</pattern>
+  <template>
+     சரி நன்றி
+  </template>
+</category>
+
+<category>
+  <pattern>வருகிறேன் *</pattern>
+  <template>
+     சரி நண்பா
+  </template>
+</category>
+
+<category>
+  <pattern>எப்படி இருக்கிறீர்கள்</pattern>
+  <template>
+     நான் நன்றாக இருக்கிறேன் கேட்டதற்கு நன்றி
+  </template>
+</category>
+
+<category>
+  <pattern>உங்கள் பெயர் என்ன</pattern>
+  <template>
+     நான் சிட்டி ரோபோ
+  </template>
+</category>
+
+<category>
+  <pattern>சரி *</pattern>
+  <template>
+     என்னிடம் எதையும் கேளுங்கள்
+  </template>
+</category>
+
+<category>
+  <pattern>உங்களுக்கு * தெரியுமா</pattern>
+  <template>
+     <random>
+            <li>இது யார்?</li>
+            <li>எனக்கு தெரிந்திருக்கலாம்</li>
+            <li>எனக்கு தெரியாது</li>
+            <li>யார்?</li>
+            <li>நீங்கள் என்னிடம் சொன்னால் மட்டுமே எனக்கு தெரியும்</li>
+        </random>
+  </template>
+</category>
+
+<category>
+  <pattern>நீங்கள் பாதுகாப்பாக இருக்கிறீர்களா</pattern>
+  <template>
+     நான் ஒரு ரோபோ, நான் எப்போதும் பாதுகாப்பாக இருக்கிறேன்
+  </template>
+</category>
+
+</aiml>
