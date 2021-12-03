@@ -15,7 +15,7 @@ A retrieval based chatbot using AIML and Python were used to code the chatbot. A
 - Flask
 - Little experience in web development (as I have coded the bot to give responses in a webpage)
 
-## How to Use the Code
+## How to Use the Bot
 
 In order to facilitate an in-depth understanding of how the code works and how to execute it, I have created a `Documentation.pdf` file that attempts to explain my exploration in this domain. Comments have also been provided in the codebase.
 
@@ -33,7 +33,6 @@ In order to facilitate an in-depth understanding of how the code works and how t
 - [AIML Documentation](http://www.aiml.foundation/doc.html) - Has almost everything you need.
 - [More AIML Documentation](https://github.com/Calysto/aiml)
 - [Rosie Bot](https://github.com/pandorabots/rosie) - Quite a vast dataset for training your bot. Will surely be handy.
-- [NumPy Documentation](https://numpy.org/doc/)
 
 I also looked into some Research Papers to know more about regional language support.
 - Kalaiyarasi, T. and Ranjani Parthasarathi. *“POONGKUZHALI-An Intelligent Tamil Chatterbot.”* (2003).
