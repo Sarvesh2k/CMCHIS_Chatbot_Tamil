@@ -19,6 +19,8 @@ A retrieval based chatbot using AIML and Python were used to code the chatbot. A
 
 In order to facilitate an in-depth understanding of how the code works and how to execute it, I have created a `Documentation.pdf` file that attempts to explain my exploration in this domain. Comments have also been provided in the codebase.
 
+If you want to know about the various tags that you can use in AIML, you can have a look at the `AIML_tag_descriptions.txt` file.
+
 ## Issues Faced during Development
 
 1.	Named Entity Recognition (NER).
