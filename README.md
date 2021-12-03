@@ -1,6 +1,6 @@
 # CMCHIS Chatbot (Tamil)
 
-This is a chatbot that answers questions regarding the Tamil Nadu's Chief Minister's Comprehensive Health Insurance Scheme in Tamil. Do check this repository out after you check [this one](https://github.com/Sarvesh2k/CMCHIS_Chatbot_English) where I implemented a similar bot in English using NLTK. Here, I use the Artificial Intelligence Markup Language (AIML).
+This is a chatbot that answers questions regarding the Tamil Nadu's Chief Minister's Comprehensive Health Insurance Scheme in Tamil. Do check this repository out after you look into [this one](https://github.com/Sarvesh2k/CMCHIS_Chatbot_English) where I implemented a similar bot in English using NLTK. Here, I use the Artificial Intelligence Markup Language (AIML).
 
 ## Introduction
 
