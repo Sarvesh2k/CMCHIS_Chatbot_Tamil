@@ -21,6 +21,10 @@ In order to facilitate an in-depth understanding of how the code works and how t
 
 If you want to know about the various tags that you can use in AIML, you can have a look at the `AIML_tag_descriptions.txt` file.
 
+## Demonstration Video (Click to Watch)
+
+[![CMCHIS Chatbot English](https://img.youtube.com/vi/TihtXnMT9E0/maxresdefault.jpg)](https://youtu.be/TihtXnMT9E0)
+
 ## Issues Faced during Development
 
 1.	Named Entity Recognition (NER).
